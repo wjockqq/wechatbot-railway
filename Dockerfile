@@ -1,2 +1,2 @@
-FROM wjockqq/wechatbot:latest
+FROM lcjqyml/wechatbot:latest
 # nothing to do.
